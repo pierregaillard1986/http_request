@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#search {
+    margin-top: 2px;
+    height: 60px;
+}
+
+.logo-meteo img {
+    width: 60px;
+    margin-top: 3px;
+}
